@@ -22,7 +22,7 @@ title: Personal Portfolio Site
 email: richardcpowelliii@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a personal portfolio site for Richard C Powell III.
-  I am a senior undergraduate student at the University of Texas at San Antonio studying computer science and linguistics with interests in data science and cyber security. I live in San Antonio, Texas.
+  Richard is a senior undergraduate student at the University of Texas at San Antonio studying computer science and linguistics with interests in data science and cyber security. He lives in San Antonio, Texas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
