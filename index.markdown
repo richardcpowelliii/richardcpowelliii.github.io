@@ -8,12 +8,22 @@ description: Cyber | Data | AI | Linguistics | Research
 description2: San Antonio, TX
 ---
 
-# **Nice to meet you, I'm Richard**
+# Nice to meet you, I'm Richard
 
 
-<div style="text-align: center;">
-	<img src="/assets/headshot.jpg" style="width: 75%;" alt="My headshot. June 2024">
-</div>
+<ul class="responsive-container">
+  <li class="item">
+    <img src="/assets/headshot.jpg" alt="My Headshot. June 2024." title="My Headshot. June 2024." class="card-image">
+  </li>
+  <li class="item">
+    <div class="contact-grid">
+      <div class="square"><div class="social-button"><a class="type1" href="https://linkedin.com/in/richard-c-powell-iii/"><i class="fa-brands fa-linkedin-in"></i></a></div></div>
+      <div class="square"><div class="social-button"><a class="type2" href="https://github.com/richardcpowelliii/"><i class="fa-brands fa-github"></i></a></div></div>
+      <div class="square"><div class="social-button"><a class="type2" href="mailto:richardcpowelliii@gmail.com"><i class="fa-solid fa-envelope"></i></a></div></div>
+      <div class="square"><div class="social-button"><a class="type3" href="tel:2109008313"><i class="fa-solid fa-phone"></i></a></div></div>
+    </div>
+  </li>
+</ul>
 
 I am a Senior at the University of Texas at San Antonio studying Computer Science with a concentration in Cyber Security and a minor in Linguistics. I also happen to be looking for a job.
 
@@ -22,10 +32,10 @@ Below are some of my favorite projects from the last couple years. Check them ou
 ___
 <br>
 
-# **Projects**
+# Projects
 
 ___
-## **Civic Tech Scholars Internship: Pothole Project**
+## Civic Tech Scholars Internship: Pothole Project
 
 In June of 2024, I landed a 10-week internship with the Better Futures Institute, a small non-profit focused on civic tech and policy research.
 
@@ -34,31 +44,55 @@ We completed a data science project for the City of San Antonio. They gave us da
 After doing a lot of initial analysis, I decided to push myself a bit and try to predict pothole occurence at the street level. This involved: making ~18,000 street segments of about equal length; joining the potholes and other data to those segments for each year; training a classification model to predict whether a segment would have *any* potholes; training dozens of regression models to predict *how many* potholes these segments would have; tuning the regression model to more accurately predict outliers (i.e., those with the most potholes); and checking for accuracy up to May 2024.
 
 It was quite a challenge and a whole lot of fun, but unfortunately I am not allowed to share the data because it belongs to the city. Here's a redacted screenshot instead showing what the results looked like:
-![A redacted screenshot of an excel spreadsheet containing the results of my pothole predictions. August 2024](/assets/pothole_results_redacted.png "A redacted screenshot of an excel spreadsheet containing the results of my pothole predictions. August 2024")
+
+<img src="/assets/pothole_results_redacted.png" alt="A redacted screenshot of an excel spreadsheet containing the results of my pothole predictions. August 2024" title="A redacted screenshot of an excel spreadsheet containing the results of my pothole predictions. August 2024" class="project-image"/>
 
 <br>
 
 ___
-## **Linguistics Website**
+## Linguistics Website
 
 Throughout my Introduction to Linguistics course, I made a website using GitHub Pages to hold and present about a dozen articles about different topics.
 
 I also learned D3.js and made some pretty nice dynamic visualizations!
 
-You can visit the site here:  
+The first is a responsive tree of the Sino-Tibetan language group, containing 458 languages in 100 subgroups. Hovering over a language will show its location, and clicking on it will send you to its listing on Ethnologue with some more information.
+
+The second is a visualization of hyponym/hypernym relationships in words from the Open English wordnet. It has ~85,000 words and ~159,000 relationships. Hovering over a word will show its definition, and clicking it will make it the new center of the graph.
+
+<ul class="responsive-container">
+  <li class="item">
+    <a href="https://jespytall.github.io/cel3/panel1/sino-tibetan_tree">
+      <img src="/assets/linguistics_visualization_2.png" alt="A screenshot of my Sino-Tibetan language group visualization. October 2024." title="A screenshot of my Sino-Tibetan language group visualization. October 2024." class="project-image"/>
+	</a>
+  </li>
+  <li class="item">
+    <a href="https://jespytall.github.io/project/tree">
+	  <img src="/assets/linguistics_visualization_1.png" alt="A screenshot of my hyponym visualization. November 2024." title="A screenshot of my hyponym visualization. November 2024." class="project-image"/>
+	</a>
+  </li>
+</ul>
+
+You can click one of the above photos to check out the visualizations. Both of them also support panning, and zooming.
+
+
+
+You can also visit the main site here:  
 
 <a href="https://jespytall.github.io/" class="btn">jespytall.github.io</a>
 
 <br>
 
 ___
-## **Rowdyhacks IX Second Place Project**
+## Rowdyhacks IX Second Place Project
 
 For Rowdyhacks IX in February 2024, My team and I created a web dashboard to determine which days would be cheapest to travel to San Antonio, given a month and duration of stay.
 
 We trained ARIMA models on 4 years of historical airline prices, and we added average hotel stay prices, holidays and local events, and a busyness index for Six Flags.
 
 It ended up winning us second place, and we were pretty proud of both the ideas and the execution.
+
+<img src="/assets/RHIX_Pic_2.png" alt="My team and me winning second place at Rowdyhacks IX. February 2024." title="My team and me winning second place at Rowdyhacks IX. February 2024." class="project-image"/>
 
 Check it out here*:  
 
@@ -69,7 +103,7 @@ Check it out here*:
 <br>
 
 ___
-## **Developing AI Tools for Children**
+## Developing AI Tools for Children
 
 During the spring 2024 semester, I was lucky enough to get into an independent study class with the department chair, Dr. Fred Martin. Myself and 11 other researchers worked in pairs to create tools that would teach AI concepts to middle-school children.
 
