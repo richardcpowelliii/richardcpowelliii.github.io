@@ -32,8 +32,18 @@ Below are some of my favorite projects from the last couple years. Check them ou
 ___
 <br>
 
-# Projects
+# Selected Projects
 
+___
+## Research Assistant, JUN Project, UT Health San Antonio
+
+Currently, I am working as a research assistant with Dr. Allison Crawford on JUN, an online application with an integrated chatbot to help pregnant people on community supervision with self-efficacy. I am focusing mostly on the data collection, analysis, and security parts of this project. 
+
+I will update this page when the work we are doing is published or otherwise released, but for now you can learn more about the JUN project from their landing page:
+
+<a href="https://uthscsa.edu/nursing/outreach/jun-research" class="btn">uthscsa.edu</a>
+
+<br>
 ___
 ## Civic Tech Scholars Internship: Pothole Project
 
@@ -74,8 +84,6 @@ The second is a visualization of hyponym/hypernym relationships in words from th
 </ul>
 
 You can click one of the above photos to check out the visualizations. Both of them also support panning, and zooming.
-
-
 
 You can also visit the main site here:  
 
