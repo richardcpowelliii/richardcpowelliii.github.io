@@ -25,25 +25,36 @@ description2: San Antonio, TX
   </li>
 </ul>
 
-I am a Senior at the University of Texas at San Antonio studying Computer Science with a concentration in Cyber Security and a minor in Linguistics. I also happen to be looking for a job.
-
-Below are some of my favorite projects from the last couple years. Check them out!
+I graduated from the University of Texas at San Antonio in May of 2025. I have a BS in Computer Science with a concentration in Cyber Security and a minor in Linguistics. I also happen to be looking for a job.
 
 ___
 <br>
 
 # Selected Projects
 
+These are some of my favorite projects from the last couple years. Check them out!
+
+
+___
+## Undergrate Researcher, CONNNECT URE, University of Texas at San Antonio
+
+Currently, I am working with Dr. Amanda Fernandez and UTSA's Vision AI Lab (VAIL) through an Undergraduate Reserach Experience funded by the Department of Energy's National Nuclear Security Administration. We are working on computer vision applications for nuclear materials science.
+
+<a href="https://sites.google.com/view/amandafernandez/research/vision-ai-lab" class="btn">Vision AI Lab</a>
+
+<br>
+
 ___
 ## Research Assistant, JUN Project, UT Health San Antonio
 
-Currently, I am working as a research assistant with Dr. Allison Crawford on JUN, an online application with an integrated chatbot to help pregnant people on community supervision with self-efficacy. I am focusing mostly on the data collection, analysis, and security parts of this project. 
+In the Spring of 2025, I worked as a research assistant with Dr. Allison Crawford on JUN, an online application with an integrated chatbot to help pregnant people on community supervision with self-efficacy. I helped run a pilot study of 60 participants, and we are in the process of publishing some papers about the study and the chatbot.
 
 I will update this page when the work we are doing is published or otherwise released, but for now you can learn more about the JUN project from their landing page:
 
-<a href="https://uthscsa.edu/nursing/outreach/jun-research" class="btn">uthscsa.edu</a>
+<a href="https://uthscsa.edu/nursing/outreach/jun-research" class="btn">JUN Research</a>
 
 <br>
+
 ___
 ## Civic Tech Scholars Internship: Pothole Project
 
@@ -87,7 +98,7 @@ You can click one of the above photos to check out the visualizations. Both of t
 
 You can also visit the main site here:  
 
-<a href="https://jespytall.github.io/" class="btn">jespytall.github.io</a>
+<a href="https://jespytall.github.io/" class="btn">Learning Celebrations</a>
 
 <br>
 
@@ -98,13 +109,13 @@ For Rowdyhacks IX in February 2024, My team and I created a web dashboard to det
 
 We trained ARIMA models on 4 years of historical airline prices, and we added average hotel stay prices, holidays and local events, and a busyness index for Six Flags.
 
-It ended up winning us second place, and we were pretty proud of both the ideas and the execution.
+It ended up winning us second place, and we were pretty proud of both the idea and the execution.
 
 <img src="/assets/RHIX_Pic_2.png" alt="My team and me winning second place at Rowdyhacks IX. February 2024." title="My team and me winning second place at Rowdyhacks IX. February 2024." class="project-image"/>
 
 Check it out here*:  
 
-<a href="https://deadpooldatesa.streamlit.app/" class="btn">deadpooldatesa.streamlit.app</a>
+<a href="https://deadpooldatesa.streamlit.app/" class="btn">PerfectDateSA</a>
 
 **Note: Streamlit seems to have updated since we made this and looks like it broke some of the formatting. It looked nice when we presented it, I promise!*
 
@@ -121,7 +132,7 @@ The game was quite simple, but it was engaging and led to productive discussion 
 
 You can try the game here:  
 
-<a href="https://vidmatch.pythonanywhere.com/" class="btn">vidmatch.pythonanywhere.com</a>
+<a href="https://vidmatch.pythonanywhere.com/" class="btn">VidMatch</a>
 
 <br>
 

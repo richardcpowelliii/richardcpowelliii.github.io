@@ -2,6 +2,17 @@
 @import "rouge-github";
 @import "variables";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Rokkitt:400,700&display=swap');
+
+
+@font-face {
+  font-family: 'Rokkitt';
+  src: url('/assets/fonts/rockwell-nova.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
@@ -126,7 +137,8 @@ a {
 }
 
 .project-name {
-  font-family: "Lexend Exa", serif;
+  //font-family: "Lexend Exa", serif;
+  font-family: "Rokkitt", serif;
   font-weight: black;
   margin-top: 0;
   margin-bottom: 0rem;
@@ -212,7 +224,7 @@ a {
   h6 {
     margin-top: 2rem;
     margin-bottom: 1rem;
-	font-family: "Lexend Exa", serif;
+	font-family: "Rokkitt", serif;
     font-weight: bold;
     color: $section-headings-color;
   }
