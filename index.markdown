@@ -36,7 +36,7 @@ These are some of my favorite projects from the last couple years. Check them ou
 
 
 ___
-## Undergrate Researcher, CONNNECT URE, University of Texas at San Antonio
+## Undergrate Researcher, CONNECT URE, University of Texas at San Antonio
 
 Currently, I am working with Dr. Amanda Fernandez and UTSA's Vision AI Lab (VAIL) through an Undergraduate Reserach Experience funded by the Department of Energy's National Nuclear Security Administration. We are working on computer vision applications for nuclear materials science.
 
